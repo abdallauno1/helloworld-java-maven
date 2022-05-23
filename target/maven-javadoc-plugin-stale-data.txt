@@ -1,0 +1,49 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.6'
+-sourcepath
+'C:/Users/amady/Downloads/job/helloworld-java-maven/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/amady/Downloads/job/helloworld-java-maven/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'my-maven 5.0.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/6/docs/api' 'C:/Users/amady/Downloads/job/helloworld-java-maven/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'my-maven 5.0.0 API'
+com.scmgalaxy.mavensample
+'C:/Users/amady/Downloads/job/helloworld-java-maven/src/main/java/com/scmgalaxy/mavensample/App.java'
+C:\Users\amady\Downloads\job\helloworld-java-maven\src\main\java = 1615890723000
+C:\Users\amady\Downloads\job\helloworld-java-maven\target\apidocs\allclasses-index.html = 1653328614616
+C:\Users\amady\Downloads\job\helloworld-java-maven\target\apidocs\allclasses.html = 1653328614633
+C:\Users\amady\Downloads\job\helloworld-java-maven\target\apidocs\allpackages-index.html = 1653328614622
+C:\Users\amady\Downloads\job\helloworld-java-maven\target\apidocs\constant-values.html = 1653328614547
+C:\Users\amady\Downloads\job\helloworld-java-maven\target\apidocs\deprecated-list.html = 1653328614627
+C:\Users\amady\Downloads\job\helloworld-java-maven\target\apidocs\element-list = 1653328614518
+C:\Users\amady\Downloads\job\helloworld-java-maven\target\apidocs\help-doc.html = 1653328614643
+C:\Users\amady\Downloads\job\helloworld-java-maven\target\apidocs\index-all.html = 1653328614607
+C:\Users\amady\Downloads\job\helloworld-java-maven\target\apidocs\index.html = 1653328614636
+C:\Users\amady\Downloads\job\helloworld-java-maven\target\apidocs\member-search-index.js = 1653328614604
+C:\Users\amady\Downloads\job\helloworld-java-maven\target\apidocs\member-search-index.zip = 1653328614605
+C:\Users\amady\Downloads\job\helloworld-java-maven\target\apidocs\overview-tree.html = 1653328614573
+C:\Users\amady\Downloads\job\helloworld-java-maven\target\apidocs\package-search-index.js = 1653328614582
+C:\Users\amady\Downloads\job\helloworld-java-maven\target\apidocs\package-search-index.zip = 1653328614602
+C:\Users\amady\Downloads\job\helloworld-java-maven\target\apidocs\script.js = 1653328614647
+C:\Users\amady\Downloads\job\helloworld-java-maven\target\apidocs\search.js = 1653328614650
+C:\Users\amady\Downloads\job\helloworld-java-maven\target\apidocs\stylesheet.css = 1653328614645
+C:\Users\amady\Downloads\job\helloworld-java-maven\target\apidocs\type-search-index.js = 1653328614603
+C:\Users\amady\Downloads\job\helloworld-java-maven\target\apidocs\type-search-index.zip = 1653328614604
